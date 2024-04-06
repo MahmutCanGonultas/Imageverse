@@ -27,7 +27,7 @@ const SearchForm = () => {
           placeholder="space"
           className={`${
             isDarkTheme ? "text-black" : "bg-neutral-700 text-white"
-          } w-4/6 px-3 text-lg focus:bg-neutral-700`}
+          } w-4/6 px-3 text-lg `}
         />
         <button
           type="submit"
