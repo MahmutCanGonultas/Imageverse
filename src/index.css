@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  font-size: 100%;
+}
+
+body {
+  background: #fbfff4;
+  color: #101415;
+  transition: background-color 0.3s ease;
+}
